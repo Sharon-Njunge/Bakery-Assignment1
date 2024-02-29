@@ -1,0 +1,20 @@
+body{
+    background-color: darkorange;
+}
+ul{
+    list-style-type: none;
+    margin: 0%;
+    padding: 0%;
+    font-family: Georgia;
+    font-size: 20px;
+}
+li{
+    display: inline-flex;
+    text-align: center;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
